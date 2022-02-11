@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=glennlopez&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vue" alt="glennlopez" align = "center"/></p>
 
 <p align="center"<a href="#"><img alt="Glenn Lopez Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=glennlopez&theme=minimal&hide_border=true&" /></a></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glennlopez&theme=default&hide_border=true" alt="glennlopez" /></p>
+
+<p align="center"> <a href="https://github.com/glennlopez"><img src="https://github-profile-trophy.vercel.app/?username=glennlopez&no-frame=true&no-bg=true" alt="glennlopez" /></a> </p>
