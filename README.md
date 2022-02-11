@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"> <a href="https://github.com/glennlopez"><img src="https://github-profile-trophy.vercel.app/?username=glennlopez&no-frame=true&no-bg=true&title=MultiLanguage&title=Followers&title=Commits&title=Repositories&title=Stars&title=PullRequest" alt="glennlopez" /></a> </p>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=glennlopez&hide_border=true&count_private=true&show_icons=true&theme=default " alt="glennlopez" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=glennlopez&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vue" alt="glennlopez" align = "center"/></p>
@@ -21,4 +22,4 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glennlopez&theme=default&hide_border=true" alt="glennlopez" /></p>
 
-<p align="center"> <a href="https://github.com/glennlopez"><img src="https://github-profile-trophy.vercel.app/?username=glennlopez&no-frame=true&no-bg=true" alt="glennlopez" /></a> </p>
+
