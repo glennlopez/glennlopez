@@ -1,7 +1,8 @@
 <!--
 **glennlopez/glennlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:!
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p border = 0 align="center"><img src="https://user-images.githubusercontent.com/3073676/153692759-177d2369-194b-4491-8a98-340cc3c88554.gif"</p>
+
 
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=glennlopez&hide_border=true&count_private=true&show_icons=true&theme=default " alt="glennlopez" align = "center"/>
