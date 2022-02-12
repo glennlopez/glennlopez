@@ -13,12 +13,11 @@ Here are some ideas to get you started:!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p border = 0 align="center"><img src="https://user-images.githubusercontent.com/3073676/153692759-177d2369-194b-4491-8a98-340cc3c88554.gif"</p>
-
-
+<p align="center"><img border:none src="https://user-images.githubusercontent.com/3073676/153692759-177d2369-194b-4491-8a98-340cc3c88554.gif"></p>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=glennlopez&hide_border=true&count_private=true&show_icons=true&theme=default " alt="glennlopez" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=glennlopez&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vue" alt="glennlopez" align = "center"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=glennlopez&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vue" alt="glennlopez" align = "center"/></p>![image](https://user-images.githubusercontent.com/3073676/153693172-905ac893-e499-4325-a1b5-1282e033dd36.gif)
+
 
 
 <p align="center"<a href="#"><img alt="Glenn Lopez Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=glennlopez&theme=minimal&hide_border=true&" /></a></p>
