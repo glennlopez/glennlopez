@@ -31,7 +31,7 @@ I'm Glenn Lopez, a self-taught programmer of all sorts, experianced in both Elec
 I'm also an open-source enthusiast and maintainer, learnining from the open-source community through collaboration and knowledge sharing.
 
 🚧 <b>Stuff I'm working on:</b>
-- 🌱 I’m currently learning CS50
+- 🌱 I’m currently learning [CS50](https://cs50.harvard.edu/x/2022/) and [freecodecamp](https://www.freecodecamp.org/)
 - 👯 I’m looking to collaborate on small technical projects
 - 🤔 I’m looking for help with designing F4 and F7 flight controllers at a hardware level
 - 💬 Ask me about FPV Drones
