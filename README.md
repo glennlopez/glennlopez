@@ -1,8 +1,3 @@
-<!--
-**glennlopez/glennlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
 
 <!--
 <p align="center"><img border:none src="https://user-images.githubusercontent.com/3073676/153692759-177d2369-194b-4491-8a98-340cc3c88554.gif"></p>
@@ -26,9 +21,12 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glennlopez&theme=default&hide_border=true" alt="glennlopez" /></p>
 
+
+
+
 ## Hi I'm Glenn :vulcan_salute:
 
-I'm Glenn Lopez, a self-taught programmer of all sorts with experiance in both Electronics and Aerospace industries. I write code for fun/as a hobby and take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on embedded systems design, computer aided design, and learning about ethical hacking. 
+I'm Glenn Lopez, a self-taught programmer of all sorts, experianced in both Electronics and Aerospace industries. I write code for fun/as a hobby and take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on embedded systems design, computer aided design, and learning about ethical hacking. 
 
 I'm also an open-source enthusiast and maintainer, learnining from the open-source community through collaboration and knowledge sharing.
 
