@@ -9,7 +9,7 @@ I'm also an open-source enthusiast and maintainer, learnining from the open-sour
 - 🔭 I’m currently working on: starting a small business
 - 🌱 I’m currently learning: CS50
 - 👯 I’m looking to collaborate on: small technical projects
-- 🤔 I’m looking for help with: designing F4 and F7 flight controllers, capture the flag
+- 🤔 I’m looking for help with: designing F4 and F7 flight controllers at a hardware level
 - 💬 Ask me about: FPV Drones
 
 
