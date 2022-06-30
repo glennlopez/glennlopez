@@ -2,6 +2,8 @@
 **glennlopez/glennlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## Hi I'm Glenn :vulcan_salute:
+
 I'm Glenn Lopez, a self-taught programmer of all sorts with experiance in both Electronics and Aerospace industries. I write code for fun/as a hobby and take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on embedded systems design, computer aided design, and learning about ethical hacking. 
 
 I'm also an open-source enthusiast and maintainer, learnining from the open-source community through collaboration and knowledge sharing.
