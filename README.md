@@ -36,6 +36,11 @@ I'm also an open-source enthusiast and maintainer, learnining from the open-sour
 - 💬 Ask me about: FPV Drones
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee or tea 🥺👉👈
