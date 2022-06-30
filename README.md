@@ -1,18 +1,17 @@
 <!--
 **glennlopez/glennlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:!
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I'm Glenn Lopez, a self-taught programmer of all sorts with experiance in both Electronics and Aerospace industries. I write code for fun/as a hobby and take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on embedded systems design, computer aided design, and learning about ethical hacking. 
+
+I'm also an open-source enthusiast and maintainer, learnining from the open-source community through collaboration and knowledge sharing.
+
+- 🔭 I’m currently working on: starting a small business
+- 🌱 I’m currently learning: CS50
+- 👯 I’m looking to collaborate on: small technical projects
+- 🤔 I’m looking for help with: designing F4 and F7 flight controllers, capture the flag
+- 💬 Ask me about: FPV Drones
+
 
 <!--
 <p align="center"><img border:none src="https://user-images.githubusercontent.com/3073676/153692759-177d2369-194b-4491-8a98-340cc3c88554.gif"></p>
