@@ -35,7 +35,7 @@ I'm also an open-source enthusiast and maintainer, learnining from the open-sour
 - 🤔 I’m looking for help with designing F4 and F7 flight controllers at a hardware level
 - 💬 Ask me about FPV Drones
 
-📊 <b>this week i spent my time on:</b>
+📊 <b>This week i spent my time on:</b>
 <!--START_SECTION:waka-->
 
 ```text
