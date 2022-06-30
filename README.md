@@ -16,8 +16,7 @@
 
 <p align="center"> <a href="https://github.com/glennlopez"><img src="https://github-profile-trophy.vercel.app/?username=glennlopez&no-frame=true&no-bg=true&title=MultiLanguage&title=Followers&title=Commits&title=Repositories&title=Stars&title=PullRequest" alt="glennlopez" /></a> </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glennlopez&theme=default&hide_border=true" alt="glennlopez" /></p>
 
@@ -35,6 +34,9 @@ I'm also an open-source enthusiast and maintainer, learnining from the open-sour
 - 👯 I’m looking to collaborate on: small technical projects
 - 🤔 I’m looking for help with: designing F4 and F7 flight controllers at a hardware level
 - 💬 Ask me about: FPV Drones
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee or tea 🥺👉👈
 
