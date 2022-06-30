@@ -2,17 +2,6 @@
 **glennlopez/glennlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Hi I'm Glenn :vulcan_salute:
-
-I'm Glenn Lopez, a self-taught programmer of all sorts with experiance in both Electronics and Aerospace industries. I write code for fun/as a hobby and take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on embedded systems design, computer aided design, and learning about ethical hacking. 
-
-I'm also an open-source enthusiast and maintainer, learnining from the open-source community through collaboration and knowledge sharing.
-
-- 🔭 I’m currently working on: starting a small business
-- 🌱 I’m currently learning: CS50
-- 👯 I’m looking to collaborate on: small technical projects
-- 🤔 I’m looking for help with: designing F4 and F7 flight controllers at a hardware level
-- 💬 Ask me about: FPV Drones
 
 
 <!--
@@ -36,6 +25,24 @@ I'm also an open-source enthusiast and maintainer, learnining from the open-sour
 <!--END_SECTION:waka-->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glennlopez&theme=default&hide_border=true" alt="glennlopez" /></p>
+
+## Hi I'm Glenn :vulcan_salute:
+
+I'm Glenn Lopez, a self-taught programmer of all sorts with experiance in both Electronics and Aerospace industries. I write code for fun/as a hobby and take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on embedded systems design, computer aided design, and learning about ethical hacking. 
+
+I'm also an open-source enthusiast and maintainer, learnining from the open-source community through collaboration and knowledge sharing.
+
+- 🔭 I’m currently working on: starting a small business
+- 🌱 I’m currently learning: CS50
+- 👯 I’m looking to collaborate on: small technical projects
+- 🤔 I’m looking for help with: designing F4 and F7 flight controllers at a hardware level
+- 💬 Ask me about: FPV Drones
+
+If you like what i do, maybe consider buying me a coffee or tea 🥺👉👈
+
+
+<a href="https://www.buymeacoffee.com/glennlopez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 
 <!--
 # My Tech Stack
