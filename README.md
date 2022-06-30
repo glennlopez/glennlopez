@@ -36,7 +36,7 @@ I'm also an open-source enthusiast and maintainer, learnining from the open-sour
 - 🤔 I’m looking for help with: designing F4 and F7 flight controllers at a hardware level
 - 💬 Ask me about: FPV Drones
 
-If you like what i do, maybe consider buying me a coffee or tea 🥺👉👈
+If you like what I do, maybe consider buying me a coffee or tea 🥺👉👈
 
 
 <a href="https://www.buymeacoffee.com/glennlopez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
