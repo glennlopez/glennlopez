@@ -26,7 +26,7 @@
 
 ## Hi! :vulcan_salute:
 
-I'm <b>Glenn Lopez</b>, a self-taught programmer, maintainer and enthusiast of all things open-sourced. My experience and background is mainly in electronics and aerospace but enjoy writing code for fun/as a hobby. I take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on embedded systems (microcontrollers and FPGAs), 3D modeling, graphics design, MCAD, ECAD, computer aided machining and dabbling in Cyber Security ([Capture the Flag](https://ctf.hacker101.com)). 
+I'm <b>Glenn Lopez</b>, a self-taught programmer, maintainer and enthusiast of all things open-sourced. My experience and background is mainly in electronics and aerospace but enjoy writing code for fun/as a hobby. I take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on embedded systems (microcontrollers and FPGAs), 3D modeling, graphics design, MCAD, ECAD, computer aided machining, and dabbling in Cyber Security ([Capture the Flag](https://ctf.hacker101.com)). 
 
 🚧 <b>Stuff I'm working on:</b>
 - 🌱 I’m currently learning [CS50](https://cs50.harvard.edu/x/2022/) and [freecodecamp](https://www.freecodecamp.org/)
