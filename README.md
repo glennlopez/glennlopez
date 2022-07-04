@@ -45,11 +45,6 @@ C#       0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### :movie_camera: Latest YouTube Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 If you like what I do, maybe consider buying me a coffee or tea 🥺👉👈
 
