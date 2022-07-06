@@ -39,7 +39,8 @@ I'm <b>Glenn Lopez</b>, a self-taught programmer, maintainer and enthusiast of a
 <!--START_SECTION:waka-->
 
 ```text
-Python   17 mins         █████████████████████████   100.00 %
+Python   27 mins         ████████████████████████░   96.02 %
+C        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 C#       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
