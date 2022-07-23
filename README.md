@@ -39,12 +39,12 @@ I'm <b>Glenn Lopez</b>, a self-taught programmer, maintainer and enthusiast of a
 <!--START_SECTION:waka-->
 
 ```text
-Python     8 hrs 22 mins   ██████████████████████▒░░   89.21 %
-CSV        22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-C          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-C++        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Markdown   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-HTML       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python     8 hrs 22 mins   ███████████████████████░░   91.66 %
+CSV        22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+C          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Markdown   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
