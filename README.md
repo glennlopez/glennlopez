@@ -4,7 +4,7 @@
 -->
 
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=glennlopez&hide_border=true&count_private=true&show_icons=true&theme=default " alt="glennlopez" align = "center"/>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=glennlopez&hide_border=true&count_private=true&show_icons=true&theme=default" alt="glennlopez" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=glennlopez&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vue" alt="glennlopez" align = "center"/></p>
 
 
