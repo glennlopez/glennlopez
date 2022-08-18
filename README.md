@@ -39,10 +39,10 @@ I'm <b>Glenn Lopez</b>, a self-taught programmer, maintainer and enthusiast of a
 <!--START_SECTION:waka-->
 
 ```text
-HTML       3 hrs 24 mins   ██████████████████████▓░░   90.44 %
-CSS        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Markdown   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+HTML       3 hrs 36 mins   █████████████████████▒░░░   85.50 %
+CSS        25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Markdown   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
