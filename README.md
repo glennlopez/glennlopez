@@ -39,7 +39,7 @@ I'm <b>Glenn Lopez</b>, a self-taught programmer, maintainer and enthusiast of a
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C   35 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
