@@ -39,9 +39,9 @@ I'm <b>Glenn Lopez</b>, a self-taught programmer, maintainer and enthusiast of a
 <!--START_SECTION:waka-->
 
 ```text
-C          12 hrs 10 mins  ███████████████████████▓░   95.18 %
-Makefile   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C          6 hrs 20 mins   ████████████████████████░   95.50 %
+Makefile   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
