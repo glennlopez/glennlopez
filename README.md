@@ -31,8 +31,7 @@ I'm <b>Glenn Lopez</b>, a self-taught programmer, maintainer and enthusiast of a
 🚧 <b>Stuff I'm working on:</b>
 <img align='right' src='https://user-images.githubusercontent.com/3073676/177060854-9aa2c854-242f-4822-bfd6-d3662ac86032.gif' width='200'>
 - 🌱 I’m currently learning HarvardX's [CS50](https://cs50.harvard.edu/x/2022/) while earning a Fullstack certification at [freecodecamp.org](https://www.freecodecamp.org/glennlopez)
-- 👯 I’m looking to collaborate on small technical projects
-- 🤔 I’m looking for help with designing F4 and F7 flight controllers at a hardware level
+- 🤔 I’m looking for help designing fpv F4 and F7 flight controllers at a hardware level
 - 💬 Ask me about FPV Drones
 
 📊 <b>This week I spent my time on:</b>
