@@ -8,8 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=glennlopez&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vue" alt="glennlopez" align = "center"/></p>
 
 
-
-<p align="center"<a href="#"><img alt="Glenn Lopez Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=glennlopez&theme=minimal&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Glenn Lopez Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=glennlopez&theme=minimal&hide_border=true&" /></a></p>
 
 
 
