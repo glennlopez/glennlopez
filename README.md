@@ -19,7 +19,6 @@
 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glennlopez&theme=default&hide_border=true" alt="glennlopez" /></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=glennlopez&label=Profile%20views&color=69c809&style=flat" alt="glennlopez" /> </p>
 
 
 
@@ -44,7 +43,6 @@ HTML   1 min           ███░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-
 ##
 
 <!--
@@ -53,6 +51,9 @@ If you like what I do, maybe consider buying me a coffee or tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/glennlopez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 -->
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=glennlopez&label=Profile%20views&color=69c809&style=flat" alt="glennlopez" /> </p>
+
 
 <!--
 ## My Tech Stack
