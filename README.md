@@ -24,15 +24,15 @@
 
 
 ## Hi! :vulcan_salute:
-
-I'm <b>Glenn Lopez</b>, a self-taught programmer, maintainer and enthusiast of all things open-sourced. My experience and background is mainly in electronics and aerospace but enjoy writing code for fun/as a hobby. I take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on [embedded systems](#) (microcontrollers and FPGAs), [3D modeling](#), [graphics design](#), MCAD, ECAD, computer aided machining, and dabbling in [Cyber Security](https://app.hackthebox.com/home) ([Capture the Flag](https://ctf.hacker101.com)). 
-
-🚧 <b>Stuff I'm working on:</b>
-<img align='right' src='https://github.com/glennlopez/glennlopez/blob/main/avatar.PNG' width='275'>
-- 🌱 I’m currently learning HarvardX's [CS50](https://cs50.harvard.edu/x/2022/) while earning a Fullstack certification at [freecodecamp.org](https://www.freecodecamp.org/glennlopez)
-- 🤔 I’m looking for help designing fpv F4 and F7 flight controllers at a hardware level
-- 💬 Ask me about FPV Drones
-
+<img align='left' src='https://github.com/glennlopez/glennlopez/blob/main/avatar.PNG' width='275'></img>
+I'm <b>Glenn</b>, a self-taught programmer, maintainer and enthusiast of all things open-sourced. My experience and background is mainly in electronics and aerospace but enjoy writing code for fun/as a hobby. I take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on [embedded systems](#) (microcontrollers and FPGAs), [3D modeling](#), [graphics design](#), MCAD, ECAD, computer aided machining, and dabbling in [Cyber Security](https://app.hackthebox.com/home) ([Capture the Flag](https://ctf.hacker101.com)). 
+##
+<!--
+🚧 <b>I'm currently working on:</b>
+- Learning computer science via [CS50](https://cs50.harvard.edu/x/2022/) and fullstack development at [freecodecamp.org](https://www.freecodecamp.org/glennlopez)
+- Open-hardware STM32 flight controller development board
+- Low-cost F4 flight controller for fpv drones 
+-->
 📊 <b>This week I spent my time on:</b>
 <!--START_SECTION:waka-->
 
@@ -42,6 +42,10 @@ HTML   1 min           ███░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
+
+##
 
 <!--
 If you like what I do, maybe consider buying me a coffee or tea 🥺👉👈
