@@ -24,7 +24,7 @@
 
 ## Hi! :vulcan_salute:
 <img align='left' src='https://github.com/glennlopez/glennlopez/blob/main/avatar.PNG' width='295'></img>
-I'm <b>Glenn</b>, a self-taught programmer, maintainer and enthusiast of all things open-sourced. My experience and background is mainly in electronics and aerospace but enjoy writing code for fun/as a hobby. I take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on [embedded systems](#) (microcontrollers and FPGAs), [3D modeling](#), [graphics design](#), MCAD, ECAD, computer aided machining, and dabbling in [Cyber Security](https://app.hackthebox.com/home) ([Capture the Flag](https://ctf.hacker101.com)). Currently I'm working on an Open-hardware STM32 development board for low-cost fpv drone flight controller.
+I'm <b>Glenn</b>, a self-taught programmer, maintainer and enthusiast of all things open-sourced. My experience and background is mainly in electronics and aerospace but enjoy writing code for fun/as a hobby. I take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on [embedded systems](#) (microcontrollers and FPGAs), [3D modeling](#), [graphics design](#), MCAD, ECAD, computer aided machining, and dabbling in [Cyber Security](https://app.hackthebox.com/home) ([Capture the Flag](https://ctf.hacker101.com)). Currently I'm working on an Open-hardware STM32F4 flight controller development board for low-cost fpv drones.
 
 ##
 <!--
