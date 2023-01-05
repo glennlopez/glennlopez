@@ -33,7 +33,7 @@ I'm <b>Glenn</b>, a self-taught programmer, maintainer and enthusiast of all thi
 - Open-hardware STM32 flight controller development board
 - Low-cost F4 flight controller for DIY FPV drones 
 -->
-📊 <b>This week I spent my time on:</b>
+📊 <b>This week I spent my coding in:</b>
 <!--START_SECTION:waka-->
 
 ```text
