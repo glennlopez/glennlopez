@@ -24,14 +24,14 @@
 
 ## Hi! :vulcan_salute:
 <img align='left' src='https://github.com/glennlopez/glennlopez/blob/main/avatar.PNG' width='295'></img>
-I'm <b>Glenn</b>, a self-taught programmer, maintainer and enthusiast of all things open-sourced. My experience and background is mainly in electronics and aerospace but enjoy writing code for fun/as a hobby. I take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on [embedded systems](#) (microcontrollers and FPGAs), [3D modeling](#), [graphics design](#), MCAD, ECAD, computer aided machining, and dabbling in [Cyber Security](https://app.hackthebox.com/home) ([Capture the Flag](https://ctf.hacker101.com)). Currently I'm working on an Open-hardware STM32F4 flight controller development board for low-cost fpv drones.
+I'm <b>Glenn</b>, a self-taught programmer, maintainer and enthusiast of all things open-sourced. My experience and background is mainly in electronics and aerospace but enjoy writing code for fun/as a hobby. I take great care in the experience, architecture, and quality of all the things I build. Outside of programming, I enjoy working on [embedded systems](#) (microcontrollers and FPGAs), [3D modeling](#), [graphics design](#), MCAD, ECAD, computer aided machining, and dabbling in [Cyber Security](https://app.hackthebox.com/home) ([Capture the Flag](https://ctf.hacker101.com)). Currently I'm working on an Open-hardware STM32F4 flight controller development board for low-cost DIY FPV drones.
 
 ##
 <!--
 🚧 <b>I'm currently working on:</b>
 - Learning computer science via [CS50](https://cs50.harvard.edu/x/2022/) and fullstack development at [freecodecamp.org](https://www.freecodecamp.org/glennlopez)
 - Open-hardware STM32 flight controller development board
-- Low-cost F4 flight controller for fpv drones 
+- Low-cost F4 flight controller for DIY FPV drones 
 -->
 📊 <b>This week I spent my time on:</b>
 <!--START_SECTION:waka-->
@@ -46,17 +46,23 @@ No activity tracked
 ##
 
 
-<!--
+<!-- // DEPRICATED BUT MIGHT STIILL USE ONE DAY
 If you like what I do, maybe consider buying me a coffee or tea 🥺👉👈
 
 
 <a href="https://www.buymeacoffee.com/glennlopez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 -->
 
+
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=glennlopez&label=Profile%20views&color=69c809&style=flat" alt="glennlopez" /> </p>
 
 
-<!--
+
+
+
+<!-- // NEEDS UPDATING
 ## My Tech Stack
 <p align="center">
 
