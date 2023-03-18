@@ -37,9 +37,9 @@ I'm <b>Glenn</b>, a self-taught programmer, maintainer and enthusiast of all thi
 <!--START_SECTION:waka-->
 
 ```text
-HTML         20 hrs 59 mins  ███████████████████▓░░░░░   79.23 %
-CSS          4 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
-JavaScript   53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+HTML         18 hrs          ███████████████████▒░░░░░   77.81 %
+CSS          4 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
+JavaScript   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
