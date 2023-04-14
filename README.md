@@ -37,11 +37,11 @@ I'm <b>Glenn</b>, a self-taught programmer, maintainer and enthusiast of all thi
 <!--START_SECTION:waka-->
 
 ```text
-HTML         14 hrs 7 mins   █████████████████▒░░░░░░░   69.17 %
-CSS          2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-JavaScript   2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-Text         1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+HTML         12 hrs 44 mins  ████████████████▓░░░░░░░░   66.80 %
+CSS          2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+JavaScript   2 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Text         1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+XML          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
