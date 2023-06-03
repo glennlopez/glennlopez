@@ -36,7 +36,7 @@ I'm <b>Glenn</b>, a self-taught programmer, maintainer and enthusiast of all thi
 📊 <b>This week, I spent my time coding in:</b>
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
