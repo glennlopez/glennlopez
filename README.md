@@ -58,7 +58,7 @@ If you like what I do, maybe consider buying me a coffee or tea 🥺👉👈
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=glennlopez&label=Profile%20views&color=69c809&style=flat" alt="glennlopez" /> </p>
 
-
+Thank you [@ccyndimolina](https://github.com/ccyndimolina) for beign a first sponsor!
 
 
 
