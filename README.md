@@ -37,11 +37,10 @@ I'm <b>Glenn</b>, a self-taught programmer, maintainer and enthusiast of all thi
 <!--START_SECTION:waka-->
 
 ```txt
-TOML         1 hr 9 mins     ██████████▒░░░░░░░░░░░░░░   41.17 %
-C            1 hr 1 min      █████████░░░░░░░░░░░░░░░░   36.52 %
-JSON         21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
-Lua          15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C            1 hr 16 mins    ████████████████▓░░░░░░░░   66.17 %
+PowerShell   38 mins         ████████▒░░░░░░░░░░░░░░░░   32.90 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
