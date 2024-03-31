@@ -8,7 +8,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=glennlopez&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vue" alt="glennlopez" align = "center"/></p>
 
 
-<p align="center"<a href="#"><img alt="Glenn Lopez Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=glennlopez&theme=minimal&hide_border=true&" /></a></p>
+<!-- <p align="center"<a href="#"><img alt="Glenn Lopez Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=glennlopez&theme=minimal&hide_border=true&" /></a></p> -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glennlopez&hide_border=true&bg_color=ffffff&line=272c2a&point=545454&area_color=c7c7c7&color=525676)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
