@@ -37,11 +37,11 @@ I'm <b>Glenn</b>, a self-taught programmer, maintainer and enthusiast of all thi
 <!--START_SECTION:waka-->
 
 ```txt
-Other    1 hr 24 mins    █████████▓░░░░░░░░░░░░░░░   38.75 %
-C#       59 mins         ███████░░░░░░░░░░░░░░░░░░   27.35 %
-Python   54 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
-C        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Binary   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+JavaScript   1 hr 45 mins    ████████▒░░░░░░░░░░░░░░░░   33.60 %
+Other        1 hr 24 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
+C#           59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
+JSON         46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+C            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->
