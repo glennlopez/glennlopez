@@ -38,8 +38,8 @@ I'm <b>Glenn</b>, a self-taught programmer, maintainer and enthusiast of all thi
 <!--START_SECTION:waka-->
 
 ```txt
-C++     8 hrs 17 mins   ████████████████████████▓   98.87 %
-INI     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+C++     5 hrs 41 mins   ████████████████████████▓   98.37 %
+INI     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
